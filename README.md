@@ -1,0 +1,2 @@
+# ReLumin8
+ReLumin8 is a program for the ESP32 that acts as an interface for LED strips using NeoPixel/WS281X LED drivers. The future goal is to allow the esp32 to drive lighting effects synced with music through pre-determined effect tracks.
